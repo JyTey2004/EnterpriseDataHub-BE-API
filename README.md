@@ -1,4 +1,9 @@
 # MockPRS API
+
+## Description
+This API will be able to fetch the data from the database and return the response in JSON format. This API is created using Python Flask and deployed in remote desktop for my instance. If the record is not found, the data will be inserted into the database and return the response in JSON format. 
+
+## Overview
   1. Schema Creation which contains the EDH data using mysql to store the data.
      1. More configuration details in [app](app/__init__.py)
      2. Schema Creation Script [modals](app/modals)
@@ -6,7 +11,7 @@
      4. Server Routes [routes](app/routes) 
   2. API created using Python Flask to fetch the data from the database.
   3. API is deployed in remote desktop @IAIS_INTER_WEB 192.168.88.28
-  4. API is accessible via http://192.168.88.28:5000/v1/entity/<uen>
+  4. API is accessible via http://<your-ip-address>:5000/v1/entity/<uen>
      1. More details below
   5. API is tested using Postman
      1. [Postman Test Files](Postman_Tests)
