@@ -38,7 +38,7 @@ This API will be able to fetch the data from the database and return the respons
 7. Also, you can access it via http://<your-ip-address>:5000/v1/entity/<uen>
 
 ### API Endpoint - POST
-* http://192.168.88.28:5000/v1/entity/<uen>
+* http://<your-ip-address>:5000/v1/entity/<uen>
   * Request Body - JSON:
     1. [LC - Sample Request File](Postman_Tests/Requests/201900001B.json)
     2. [BN - Sample Request File](Postman_Tests/Requests/87654321B.json)
