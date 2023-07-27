@@ -1,4 +1,4 @@
-# MockPRS API
+# Mock-Enterprise-Data-Hub API
 
 ## Description
 This API will be able to fetch the data from the database and return the response in JSON format. This API is created using Python Flask and deployed in remote desktop for my instance. If the record is not found, the data will be inserted into the database and return the response in JSON format. 
