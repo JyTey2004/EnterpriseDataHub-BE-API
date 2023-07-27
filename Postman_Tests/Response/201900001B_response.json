@@ -1,0 +1,316 @@
+{
+    "addresses": [
+        {
+            "address-change-date": {
+                "value": null
+            },
+            "addresstype": "SG",
+            "block": {
+                "value": "20"
+            },
+            "building": {
+                "value": "ION Orchard"
+            },
+            "country": {
+                "code": "SG",
+                "desc": "Singapore"
+            },
+            "floor": {
+                "value": "10"
+            },
+            "postal": {
+                "value": "238830"
+            },
+            "purpose": {
+                "value": "Registered Office"
+            },
+            "source": 1,
+            "street": {
+                "value": "Orchard Road"
+            },
+            "unit": {
+                "value": "02-10"
+            }
+        },
+        {
+            "address-change-date": {
+                "value": null
+            },
+            "addresstype": "MY",
+            "block": {
+                "value": "30"
+            },
+            "building": {
+                "value": "Berjaya Times Square"
+            },
+            "country": {
+                "code": "MY",
+                "desc": "Malaysia"
+            },
+            "floor": {
+                "value": "2"
+            },
+            "postal": {
+                "value": "55100"
+            },
+            "purpose": {
+                "value": "Mailing Address"
+            },
+            "source": 1,
+            "street": {
+                "value": "Jalan Bukit Bintang"
+            },
+            "unit": {
+                "value": "Suite 202"
+            }
+        }
+    ],
+    "appointments": [
+        {
+            "appointed-date": {
+                "value": "2019-01-31"
+            },
+            "appointed-entity": {
+                "name": {
+                    "value": "LMN Holdings"
+                },
+                "type": {
+                    "code": "LC",
+                    "desc": "Local Company"
+                },
+                "uen": {
+                    "value": "201900002C"
+                }
+            },
+            "category": {
+                "code": "2",
+                "desc": "Local Company"
+            },
+            "death-indicator": {
+                "value": "N"
+            },
+            "disqualification-reason": {
+                "code": "BANKRUPTCY",
+                "desc": "DISQUALIFICATION DUE TO BANKRUPTCY"
+            },
+            "disqualification-reason-subsection": {
+                "code": "1-D1",
+                "desc": "SECTION 148(1) CA"
+            },
+            "estate-indicator": {
+                "value": "N"
+            },
+            "position": {
+                "code": "BN-1",
+                "desc": "OWNER"
+            },
+            "reinstate-indicator": {
+                "value": "N"
+            },
+            "source": 1,
+            "withdrawal-date": {
+                "value": "2019-12-31"
+            },
+            "withdrawal-reason": {
+                "code": "01",
+                "desc": "DISQUALIFICATION UNDER SECTION 149 - COURT ORDER"
+            }
+        },
+        {
+            "appointed-date": {
+                "value": "2020-05-15"
+            },
+            "appointed-person": {
+                "address": {
+                    "address-change-date": {
+                        "value": "2020-05-15"
+                    },
+                    "addresstype": "SG",
+                    "block": {
+                        "value": "20"
+                    },
+                    "building": {
+                        "value": "ION Orchard"
+                    },
+                    "country": {
+                        "code": "SG",
+                        "desc": "Singapore"
+                    },
+                    "floor": {
+                        "value": "10"
+                    },
+                    "postal": {
+                        "value": "238830"
+                    },
+                    "purpose": {
+                        "value": "Registered Office"
+                    },
+                    "source": 1,
+                    "street": {
+                        "value": "Orchard Road"
+                    },
+                    "unit": {
+                        "value": "02-10"
+                    }
+                },
+                "id-no": {
+                    "value": "S7654321X"
+                },
+                "id-type": {
+                    "code": "1",
+                    "desc": "NRIC (CITIZEN)"
+                },
+                "name": {
+                    "value": "Jane Doe"
+                },
+                "nationality": {
+                    "code": "SG",
+                    "desc": "SINGAPORE CITIZEN"
+                }
+            },
+            "category": {
+                "code": "1",
+                "desc": "Individual"
+            },
+            "death-indicator": {
+                "value": "N"
+            },
+            "disqualification-reason": {
+                "code": "NONE",
+                "desc": "NO DISQUALIFICATION"
+            },
+            "disqualification-reason-subsection": {
+                "code": "1-D1",
+                "desc": "SECTION 148(1) CA"
+            },
+            "estate-indicator": {
+                "value": "N"
+            },
+            "position": {
+                "code": "BN-2",
+                "desc": "MANAGER"
+            },
+            "reinstate-indicator": {
+                "value": "N"
+            },
+            "source": 1,
+            "withdrawal-date": {
+                "value": "2022-12-31"
+            },
+            "withdrawal-reason": {
+                "code": "01",
+                "desc": "DISQUALIFICATION UNDER SECTION 149 - COURT ORDER"
+            }
+        }
+    ],
+    "basic-profile": {
+        "activity-eff-date": {
+            "value": "2023-07-20"
+        },
+        "allp-indicator": {
+            "value": "N"
+        },
+        "company-allottee-indicator": {
+            "value": "N"
+        },
+        "company-amalgamation": {
+            "amalgamated-company-name": {
+                "value": "ABC Corporation"
+            },
+            "amalgamated-company-uen": {
+                "value": "201810293C"
+            },
+            "amalgamation-date": {
+                "value": "2023-07-20"
+            },
+            "transaction-number": {
+                "value": "T230725987"
+            }
+        },
+        "company-authorized-capital-number": {
+            "value": 10000000.0
+        },
+        "company-conversion-indicator": {
+            "value": "N"
+        },
+        "company-number-of-members": {
+            "value": 150
+        },
+        "company-type": {
+            "code": "B1",
+            "desc": "Private Company Limited by Shares"
+        },
+        "country-of-incorporation": {
+            "code": "SG",
+            "desc": "SINGAPORE"
+        },
+        "entity-long-name": {
+            "value": "XYZ Company Limited"
+        },
+        "entity-name": {
+            "value": "XYZ Co. Ltd."
+        },
+        "entity-status": {
+            "code": "LC-0",
+            "desc": "Live Company",
+            "value": "LIVE"
+        },
+        "entity-status-eff-date": {
+            "value": "2023-07-20"
+        },
+        "entity-type": {
+            "code": "LC",
+            "desc": "Local Company"
+        },
+        "filing-agent": {
+            "deregistration-date": {
+                "value": "2023-12-31"
+            },
+            "expiry-date": {
+                "value": "2028-12-31"
+            },
+            "fa-id-number": {
+                "value": "FA20231234"
+            },
+            "registration-date": {
+                "value": "2023-07-20"
+            },
+            "status": {
+                "code": 1,
+                "desc": "REGISTERED"
+            },
+            "status-effective-date": {
+                "value": "2023-07-20"
+            }
+        },
+        "issuance-agency": {
+            "code": "ACRA",
+            "desc": "ACCOUNTING AND CORPORATE REGULATORY AUTHORITY"
+        },
+        "name-eff-date": {
+            "value": "2023-07-20"
+        },
+        "primary-activity": {
+            "code": 10613,
+            "desc": "Processing of pepper seeds"
+        },
+        "primary-activity-add-desc": {
+            "value": "Management consulting services"
+        },
+        "registration-date": {
+            "value": "2023-07-20"
+        },
+        "secondary-activity": {
+            "code": 16230,
+            "desc": "Manufacture of wooden containers"
+        },
+        "source": 1,
+        "uen": {
+            "value": "201900001B"
+        },
+        "uen-status": {
+            "code": "R",
+            "desc": "Registered"
+        }
+    }
+}

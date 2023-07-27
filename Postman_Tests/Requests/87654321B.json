@@ -1,0 +1,318 @@
+{
+  "basic-profile": {
+    "activity-eff-date": {
+      "value": "2023-07-20"
+    },
+    "entity-type": {
+      "code": "BN",
+      "desc": "Business"
+    },
+    "constitution": {
+      "value": "Limited Liability Company",
+      "code": "LLC"
+    },
+    "primary-activity": {
+      "code": "58210",
+      "desc": "Restaurant operation"
+    },
+    "registration-date": {
+      "value": "2023-07-20"
+    },
+    "source": 1,
+    "secondary-activity": {
+      "code": "56101",
+      "desc": "Catering services"
+    },
+    "entity-name": {
+      "value": "Tasty Bites Co."
+    },
+    "expiry-date": {
+      "value": "2028-07-20"
+    },
+    "constitution-date": {
+      "value": "2023-07-20"
+    },
+    "person-particulars-change-date": {
+      "value": "2023-07-20"
+    },
+    "primary-activity-add-desc": {
+      "value": "Management consulting services"
+    },
+    "uen-status": {
+      "code": "R",
+      "desc": "Registered"
+    },
+    "uen": {
+      "value": "87654321B"
+    },
+    "name-eff-date": {
+      "value": "2023-07-20"
+    },
+    "entity-status": {
+      "value": "LIVE",
+      "code": "BN-1",
+      "desc": "Active"
+    },
+    "entity-long-name": {
+      "value": "Tasty Bites Company"
+    },
+    "entity-status-eff-date": {
+      "value": "2023-07-20"
+    },
+    "renewal": {
+      "number-of-years": {
+        "value": "5"
+      },
+      "renewal-date": {
+        "value": "2023-12-31"
+      },
+      "renewal-mode": {
+        "code": "2",
+        "desc": "Renewal via Online Portal"
+      },
+      "transaction-number": {
+        "value": "B230000001"
+      }
+    },
+    "filing-agent": {
+      "fa-id-number": {
+        "value": "FA20231234"
+      },
+      "deregistration-date": {
+        "value": "2023-12-31"
+      },
+      "status-effective-date": {
+        "value": "2023-07-20"
+      },
+      "registration-date": {
+        "value": "2023-07-20"
+      },
+      "expiry-date": {
+        "value": "2023-12-31"
+      },
+      "status": {
+        "code": "1",
+        "desc": "REGISTERED"
+      }
+    },
+    "created-date": {
+      "value": "2023-07-20"
+    },
+    "commencement-date": {
+      "value": "2023-07-20"
+    },
+    "issuance-agency": {
+      "code": "ACRA",
+      "desc": "ACCOUNTING AND CORPORATE REGULATORY AUTHORITY"
+    },
+    "secondary-activity-add-desc": {
+      "value": "Marketing and Advertising services"
+    }
+  },
+  "appointments": [
+    {
+      "appointed-entity": {
+        "name": {
+          "value": "DEF Company"
+        },
+        "type": {
+          "code": "LC",
+          "desc": "Local Company"
+        },
+        "uen": {
+          "value": "87654321B"
+        }
+      },
+      "withdrawal-date": {
+        "value": "2018-12-31"
+      },
+      "reinstate-indicator": {
+        "value": "N"
+      },
+      "estate-indicator": {
+        "value": "N"
+      },
+      "appointed-date": {
+        "value": "2018-01-31"
+      },
+      "position": {
+        "code": "BN-1",
+        "desc": "OWNER"
+      },
+      "source": 1,
+      "category": {
+        "code": "2",
+        "desc": "Local Company"
+      },
+      "disqualification-reason-subsection": {
+        "code": "1-D1",
+        "desc": "SECTION 148(1) CA"
+      },
+      "withdrawal-reason": {
+        "code": "01",
+        "desc": "DISQUALIFICATION UNDER SECTION 149 - COURT ORDER"
+      },
+      "death-indicator": {
+        "value": "N"
+      },
+      "disqualification-reason": {
+        "code": "BANKRUPTCY",
+        "desc": "DISQUALIFICATION DUE TO BANKRUPTCY"
+      }
+    },
+    {
+      "withdrawal-date": {
+        "value": "2018-12-31"
+      },
+      "reinstate-indicator": {
+        "value": "N"
+      },
+      "appointed-person": {
+        "name": {
+          "value": "Tim Tom"
+        },
+        "addresses": [
+          {
+            "country": {
+              "code": "SG",
+              "desc": "Singapore"
+            },
+            "unit": {
+              "value": "01"
+            },
+            "purpose": {
+              "value": "person"
+            },
+            "street": {
+              "value": "Orchard Road"
+            },
+            "addresstype": "SG",
+            "block": {
+              "value": "20"
+            },
+            "postal": {
+              "value": "123456"
+            },
+            "source": 1,
+            "address-change-date": {
+              "value": "2023-07-20"
+            },
+            "floor": {
+              "value": "15"
+            },
+            "building": {
+              "value": "Orchard Tower"
+            }
+          }
+        ],
+        "nationality": {
+          "code": "SG",
+          "desc": "SINGAPORE CITIZEN"
+        },
+        "id-no": {
+          "value": "S1234567Z"
+        },
+        "id-type": {
+          "code": "1",
+          "desc": "NRIC (CITIZEN)"
+        }
+      },
+      "estate-indicator": {
+        "value": "N"
+      },
+      "appointed-date": {
+        "value": "2023-07-20"
+      },
+      "position": {
+        "code": "BN-2",
+        "desc": "MANAGER"
+      },
+      "source": 1,
+      "category": {
+        "code": "1",
+        "desc": "Individual"
+      },
+      "disqualification-reason-subsection": {
+        "code": "1-D1",
+        "desc": "SECTION 148(1) CA"
+      },
+      "withdrawal-reason": {
+        "code": "01",
+        "desc": "DISQUALIFICATION UNDER SECTION 149 - COURT ORDER"
+      },
+      "death-indicator": {
+        "value": "N"
+      },
+      "disqualification-reason": {
+        "code": "NONE",
+        "desc": "NO DISQUALIFICATION"
+      }
+    }
+  ],
+   "addresses": [
+    {
+      "country": {
+        "code": "SG",
+        "desc": "Singapore"
+      },
+      "unit": {
+        "value": "01-23"
+      },
+      "purpose": {
+        "value": "Registered Office"
+      },
+      "street": {
+        "value": "Raffles Place"
+      },
+      "addresstype": "SG",
+      "block": {
+        "value": "10"
+      },
+      "postal": {
+        "value": "048617"
+      },
+      "source": 1,
+      "address-change-date": {
+        "value": "2023-07-20"
+      },
+      "floor": {
+        "value": "23"
+      },
+      "building": {
+        "value": "Ocean Financial Centre"
+      }
+    },
+    {
+      "country": {
+        "code": "US",
+        "desc": "United States"
+      },
+      "unit": {
+        "value": "Suite 100"
+      },
+      "purpose": {
+        "value": "Mailing Address"
+      },
+      "street": {
+        "value": "Main Street"
+      },
+      "addresstype": "US",
+      "block": {
+        "value": "500"
+      },
+      "postal": {
+        "value": "12345"
+      },
+      "source": 1,
+      "address-change-date": {
+        "value": "2023-07-20"
+      },
+      "floor": {
+        "value": "10"
+      },
+      "building": {
+        "value": "Business Center"
+      }
+    }
+  ]
+}
