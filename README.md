@@ -10,8 +10,8 @@ This API will be able to fetch the data from the database and return the respons
      3. Modal Controller [controller](app/controllers)
      4. Server Routes [routes](app/routes) 
   2. API created using Python Flask to fetch the data from the database.
-  3. API is deployed in remote desktop @IAIS_INTER_WEB 192.168.88.28
-  4. API is accessible via http://<your-ip-address>:5000/v1/entity/<uen>
+  3. API is deployed in remote desktop
+  4. API is accessible via http://localhost:5000/v1/entity/<uen>
      1. More details below
   5. API is tested using Postman
      1. [Postman Test Files](Postman_Tests)
@@ -35,10 +35,10 @@ This API will be able to fetch the data from the database and return the respons
    4. `db_name = 'localhost'`
 5. Run the application `python run.py`
 6. Access the application via http://localhost:5000/v1/entity/<uen>
-7. Also, you can access it via http://<your-ip-address>:5000/v1/entity/<uen>
+7. Also, you can access it via http://your-ip-address:5000/v1/entity/<uen>
 
 ### API Endpoint - POST
-* http://<your-ip-address>:5000/v1/entity/<uen>
+* http://localhost:5000/v1/entity/<uen>
   * Request Body - JSON:
     1. [LC - Sample Request File](Postman_Tests/Requests/201900001B.json)
     2. [BN - Sample Request File](Postman_Tests/Requests/87654321B.json)
